@@ -4,7 +4,7 @@ Sistema web desenvolvido para realizar vistorias veiculares de forma digital, of
 
 ## 🌐 Demo
 
-Acesse a demonstração do projeto: [https://seu-usuario.github.io/project3](https://seu-usuario.github.io/project3)
+Acesse a demonstração do projeto: [https://github.com/LucasRZamboni/vehiclePlus](https://lucasrzamboni.github.io/vehiclePlus/)
 
 ## 🚗 Funcionalidades
 

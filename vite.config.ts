@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/project3/', // Nome do seu repositório
+  base: '/vehiclePlus/', // Nome do seu repositório
 });
